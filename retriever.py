@@ -17,7 +17,8 @@ from langchain_chroma import Chroma
 load_dotenv()
 logger = logging.getLogger(__name__)
 
-CHROMA_DB_PATH = os.getenv("CHROMA_DB_PATH", "./data/chroma_db")
+# Ensure forward slashes for Linux compatibility on Render
+CHROMA_DB_PATH = os.getenv("CHROMA_DB_PATH", "data/chroma_db").replace("\\", "/")
 EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "sentence-transformers/all-MiniLM-L6-v2")
 
 
@@ -172,7 +173,14 @@ _retriever_instance = None
 
 def get_retriever() -> HybridRetriever:
     global _retriever_instance
-    if _retriever_instance is None:
-        _retriever_instance = HybridRetriever(top_k=5)
-        _retriever_instance.load_vectorstore()
+    
+    # Check if instance doesn't exist OR if vectorstore failed to load previously
+    if _retriever_instance is None or _retriever_instance._vectorstore is None:
+        logger.info("Initializing new HybridRetriever instance...")
+        temp_instance = HybridRetriever(top_k=5)
+        temp_instance.load_vectorstore()
+        
+        # Only save to global instance if loading was successful
+        _retriever_instance = temp_instance
+        
     return _retriever_instance

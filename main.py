@@ -23,14 +23,10 @@ app = FastAPI(
     version="1.0.0",
 )
 
-from fastapi.middleware.cors import CORSMiddleware
-
-app = FastAPI()
-
-# Yeh code Vercel (Frontend) ko Render (Backend) se baat karne dega
+# Yeh code Vercel/Netlify/Cloudflare (Frontend) ko Render (Backend) se baat karne dega
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Security ke liye baad mein isko Vercel URL se replace kar sakte hain
+    allow_origins=["*"],  # Security ke liye baad mein isko apne frontend URL se replace kar sakte hain
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
