@@ -1,0 +1,325 @@
+SOURCE: https://cutm.ac.in/wp-content/uploads/2024/11/BTechRegulationsCBCSAug2017.pdf
+DOCUMENT: Academic Regulations - B.Tech Degree Programmes (Except Agriculture), Session 2017-18
+Centurion University of Technology & Management
+Fetched on: 2026-06-30
+
+================================================================
+
+Academic Regulations
+B. Tech. Degree Programmes 
+(Except Agriculture)
+SESSION: 2017-18
+CENTURION UNIVERSITY OF TECHNOLOGY & MANAGEMENT
+At: Alluri Nagar, PO: R. Sitapur, Paralakhemundi, Dist: Gajapati, Odisha, 761211
+www.cutm.ac.in
+June 2017
+
+1. Academic Regulations & Policies 
+This section gives an overview of the different Academic Rules and Regulation to be followed in the 
+Centurion University of Technology and Management (CUTM) for the Bachelor of Technology 
+Programs. Specifically it contains information on Choice Based Credit System (CBCS), including 
+Registration, Selection of Subjects, Time Table, Grading System, Examination Policy, Attendance 
+Policy and Academic Rules applicable at CUTM. 
+
+1.1 Choice Based Credit System
+The Choice Based Credit System (CBCS) is made available to all Engineering students (Excluding 
+Agriculture).
+i. For CBCS "Programme" refers to "Engineering" study, "Course" refers to a discipline within 
+programme say "Computer Science", Completion of course will lead to award of degree in that 
+course "Subject" refers to a unit of study under the course say "Refrigeration and Air-conditioning in Mechanical Engineering course. Subjects can have various credits viz; 2, 3 etc.
+ii. At the time of joining the University, the student need not be constrained by the engineering 
+discipline she/he has chosen. The student has the flexibility to choose the required Credit from 
+different baskets of Subjects, as she/he moves from one semester to next and graduate in her/his 
+discipline(s) of interest. 
+iii. The student can choose her/his pace of Credit Acquisition based on a predetermined academic 
+plan, with the support of faculty mentor.
+iv. The entire syllabus is divided into Baskets of subjects comprising of Foundation Courses in 
+Sciences (Basket I), Humanities & Management Sciences (Basket II), and Foundation 
+Engineering Courses Sciences (Basket III); Core Engineering Courses Sciences (Basket IV);
+and Discipline/Domain Centric Courses Sciences (Basket V).
+v. From a portfolio of courses in each Basket, a student has the option of choosing any 
+combination of Subjects, fulfilling minimum Credit requirement from that Basket.
+vi. There is no limit on the number of Credits to be registered in any semester. For the award of a regular B.Tech degree in a particular discipline/branch, a student has to acquire 160 Credits. For the award of a B.Tech degree with Honours, a student has to acquire 180 Credits and complete the requisite Credits from each basket.
+vii. A student can obtain dual degree (degree in two different disciplines/branches), if he/she can 
+fulfil the additional credit requirements from basket 4 for such disciplines. For dual degree, a 
+student has to credit minimum 225 credits (180 credits + 45 credits from Basket IV)
+viii. The student has the flexibility to decide the duration of his/her degree program completion 
+period. The minimum duration of completion of Degree is 4 years. However, the maximum 
+duration that a student can take to graduate shall not be more than 8 years from the date of 
+registration to the degree program.
+ix. Subjects are divided into different types, e.g. Theory, Practice, Project, Theory & Practice, 
+Theory & Project, Practice & Project, and Theory & Practice & Project. A Student has no 
+restriction on crediting any number of Subjects from any type. The student can obtain a 
+certificate of acquisition of Skill for most of the Practice Subjects.
+x. Massive Open On-line Subjects (MOOCs) offered by any Premier Institute Globally can be 
+credited by any student.
+xi. A student must pass in all prerequisite subject(s), if any, before registering for a particular subject.
+xii. While the student has the option of exercising her/his choice in crediting a subject, the same 
+will not be offered by the University, if a minimum number of students do not register for the 
+said subject. The concerned department/faculty will notify the minimum student requirements, 
+based on their specific need.
+xiii. The CBCS is not for selecting a subject on the basis of how easy or difficult it is, but on the 
+basis of student's goal of getting right employment/higher education/entrepreneurship. 
+Accordingly, for every student, a dynamic course plan, aligned to his/her goal, needs to be in 
+place.
+xiv. A student has the option of dropping a subject (midway/at the end of semester after failure) and 
+register for a new subject of relevant basket in subsequent semester and fulfils the credit 
+requirements.
+
+1.2 Structure of Choice Based Credit System
+Basket Categories and Credit distribution:
+- Basket I: Foundation Courses in Sciences — 10% — 18 Theory Credits
+- Basket II: Foundation Courses in Humanities & Management — 10% — 18 Theory Credits
+- Basket III: Foundation Courses in Engineering — 15% — 27 Theory Credits*
+- Basket IV: Core Engineering Courses — 25% — 27 Theory + 18 Practice = 45 Credits#
+- Basket V: Discipline/Domain Centric Courses — 40% — 72 Total Credits**
+Total Credits: 180
+
+* From Basket-III, a student needs to register 18 Credits from his/her own discipline and 9 Credits from other 
+disciplines/branches.
+# A Student needs to register all the subjects listed in Basket IV for obtaining a degree in that discipline/branch. 
+** A student must take at least one domain track from Basket-V, in his/her area of specialisation.
+Note: All courses in Basket-I, Basket-II, Basket-III, Basket-IV are available for credit under Basket-V.
+
+1.2.1 Credit Weightages
+- Engineering Courses: 3 Credits
+- Foundation Course in Sciences: 3 Credits
+- Humanities & Management: 2 Credits
+- Practice Course: 2 Credits
+- Minor Project: 3 or 4 Credits
+- Major Project: 6 Credits
+- Internship – 4 weeks/8 weeks: 2 or 4 Credits
+- CSR, NSS, NCC, SCOUT, etc.: 0 Credits
+
+1.3 Registration, Selection of Subjects & Time Table
+This section gives the details of the University Registration Card, Registration to different Subjects and 
+Time Table for Course work. Immediately after admission, the students' particulars are to be stored in 
+ERP/MIS of the University. Any information related to the students required by any Department/Entity 
+will be collected from the ERP/MIS only.
+
+1.3.1 University Registration Card
+A Student is issued University Registration Card after admission process. University Registration 
+number continues to be his/her Registration Number for all examinations during his/her tenure of study. 
+This card is also essential for attending classes in a college and appearing in examinations. This is an
+IMPORTANT document and the student must take care of it. Duplicate University Registration Card 
+will be issued only after recommendation by the Dean of respective college on paying the prescribed 
+fee.
+
+1.3.2 Subject-wise Registration
+All registered students of the University have to register for each of the subjects they are required to 
+study before commencement of a semester. A student has to apply in a specified format for subject wise 
+registration for each semester with prescribed fees to his/her college Dean. The same will be scrutinized 
+and registration confirmation will be displayed on the notice board and in MIS. The following 
+methodology is adopted for registration procedure:
+i. Head of the Departments to submit the titles of the subjects to be offered, for all the Baskets, to 
+the Dean.
+ii. The MIS section has to upload all these subjects in the MIS/ERP.
+iii. One week slot will be provided to the students for counselling & registration in every semester. 
+iv. Immediately after admission in the first year, each faculty mentor will be allotted 20 students 
+for continuous guidance.
+v. It is the responsibility of faculty mentor and concerned HOD to counsel and make the students 
+understand the CBCS and select the subjects of their choice (aligned to their goal). Student-wise tracker will be developed at the beginning of the first semester. It will consist of a portfolio 
+of subjects keeping in mind student's goal (i.e. employment/higher 
+education/entrepreneurship). Colleges will prepare slots for students and their faculty mentors
+for this purpose.
+vi. The Mentor concerned can make note of the subjects selected by his/her students from the 
+tracker and then the students are guided to freeze these in MIS.
+vii. There is no restriction on the number of credits to be registered by any student, although 
+expected normal credit load for a semester is 22 to 24 and 4 years is the minimum duration for 
+award of degree.
+ A student can go at less than normal pace by registering fewer credits. 
+ Further, a student can register for more than normal credits in a semester. He/she can 
+judiciously credit Subjects in advanced topics, interdisciplinary areas and undertake skill 
+Subjects and project works.
+viii. A Student is allowed to register for a subject only after clearing its pre requisites, if any. 
+ix. After the choice lock, the time table will be finalised. Care will be taken to accommodate 
+maximum number of students for the subject choices locked. Wherever it is not feasible, 
+concerned student(s) will be guided to defer the subject chosen to future semesters and register 
+another feasible subject.
+x. If any student does not register during the given slot or joins the college later, then he/she will 
+have to exercise choice based on the time table.
+xi. Any student falling short of credits for graduation after the final semester examination, has the 
+chance to complete the required shortfall by appearing the examination organised before the 
+convocation of his/her batch.
+xii. MIS will show cumulative student credits under "My Credits". A report on student wise credits 
+can be obtained from MIS for documentation. 
+
+1.3.3 Time Table for Instructions
+Each college will provide the Time Table for the subjects being offered in a semester after the subject 
+registration for that semester. The time table will indicate the name of the Subject facilitators. 
+
+1.3.4 Duration of Curriculum and Calendar
+- Each year shall be divided into two Semesters – Autumn Semester (July to December) and Spring 
+Semester (January to June). Students normally join in Autumn Semester. The number of teaching 
+weeks in each semester will be 15 to 18 with a minimum of 90 teaching days, excluding the period 
+of examination. 
+- Each year the University will draw out a calendar of academic and associated activities. Detailed 
+curricula and syllabi will be as decided by the Academic Council with provision for required 
+modification. 
+- The duration of the programmes will take note of statutory provisions that come into effect from 
+time to time. The minimum duration of the B. Tech degree programmes is four years/eight 
+semesters. A student has the option to complete the B. Tech degree programme within eight (8) 
+years. 
+
+1.4 Grading System & Degree Requirement
+The University has a ten points grading system as below.
+
+1.4.1 Categorization of Grades and Their Correlation
+Qualification | Grade | Score on 100 Percentage Point | Point
+Outstanding | 'O' | 90 & above up to 100 | 10
+Excellent | 'E' | 80 & above but less than 90 | 9
+Very Good | 'A' | 70 & above but less than 80 | 8
+Good | 'B' | 60 & above but less than 70 | 7
+Fair | 'C' | 50 & above but less than 60 | 6
+Pass | 'D' | 40 & above but less than 50 | 5
+Failed | 'F' | Below 40 | 2
+Malpractice | 'M' | --- | 0
+Absent | 'S' | --- | 0
+
+N.B. Grade C shall be considered as average, Grade D shall be pass Grade for theory and Grade C 
+shall be Pass Grade for Practical / Sessional /Project.
+
+1.4.2 Definition of Terms
+a) Point – Integer equivalent of each letter grade
+b) Credit – Integer signifying the relative emphasis of individual Subject item(s) in a semester as 
+indicated by the course structure and syllabus
+c) Credit Point – (b) multiplied by (a) for each Subject item
+d) Credit Index – Sum of Credit Points, [i.e. Sum of (c)] of Subject items in a semester
+e) Grade Point – (c) / (d)
+f) Grade Point Average – Represented by Grade Point Indices as per section 1.4.3.
+ Semester Grade Point Index (SGPI)
+ Cumulative Grade Point Index (CGPI)
+
+1.4.3 Grade Point Index
+SGPI = (Credit Index) / (Sum of Credits for a Semester)
+CGPI = (Sum of Credit Index of all previous Semester)/(Credits of all previous Semesters) up to a 
+semester
+
+1.4.4 B. Tech Degree Requirements 
+There shall be no class / division awarded to a student either at semester or degree level. A candidate 
+will be eligible for award of B. Tech degree if he/she satisfies all the following conditions:
+a) Has cleared all subjects with at least pass grade,
+b) Has obtained 160 Credits for a regular B.Tech degree, or 180 Credits for a B.Tech degree with Honours,
+c) Has obtained required Credits from each of the Baskets, with one domain track at least from Basket-V, 
+d) Has obtained at least satisfactory grade in CSR activities (i.e. NCC/NSS/Games/Sports/
+Music/Debate/Quiz/Yoga) during the study period,
+e) Has no dues to the University, and
+f) Has no disciplinary action pending against him/her.
+
+2. Examination Policy
+The section on Examination Policy gives specific guidelines, rules of the Examination and expected 
+Examination Code of Conduct.
+
+2.1 Eligibility for Examinations
+The eligibility criteria for appearing in the examinations of CUTM are as follows:
+- A student has to maintain overall 75% attendance to be able to write all papers at end-semester 
+examinations in a semester. The attendance is considered from the date of commencement of classes 
+as per academic calendar of the university and is calculated based on the total number of working 
+days available in a semester.
+- The schedule of classes shall be notified through a time table before the beginning of the classes in 
+the Semester. Attendance record will be compiled at the time of each class test and the students 
+with poor attendance will be informed through notification. The guardian may be informed through 
+a letter/SMS. Letters will be issued to the student and the guardian before he/she is debarred for 
+appearing at University examination due to shortage of attendance. Examination Section shall be 
+informed about the list of eligible/ineligible students for the Examination. Dean will monitor
+students' attendance.
+- Concessions: A student who has been absent for short periods on health ground or due to 
+participation in cultural, sports and other academic/official assignments in the interest of students,
+with prior written permission of the Dean/Head of the Department shall be permitted a concession 
+of 10% in attendance (i.e. will be eligible for appearing in examination with a minimum of 65% 
+attendance). 
+- A student will be allowed to appear in the Semester Examination in those theory subjects where 
+his/her attendance is not less than 75% in case he/she does not have 75% overall attendance.
+- A candidate shall be allowed in a Semester Examination only after he/she is issued an Admit Card 
+for the relevant examination by the University through the Examination Section of the College. 
+- Students who have been found to indulge in malpractice during examination will be awarded 'M' 
+grade in that subject. The University will take appropriate disciplinary action, as per rule.
+- A student who is absent in any subject(s) for which he/she has registered will be awarded 'S' grade. 
+He/she is permitted to appear in those Subjects in subsequent semester examinations after 
+compensating for the course work missed and obtaining due permission from the respective College 
+and University.
+- A student may register to appear in a semester examination which she/he has not passed, with 
+appropriate fee.
+
+2.2 Evaluation System
+The University has a continuous evaluation system for each type of Subjects (Theory, Practice, Project, 
+Theory & Practice, Theory & Project, Practice & Project, Theory, Practice & Project). For this purpose 
+the university holds the following examinations.
+- End Semester Examinations at the end of the Odd and Even Semester course work
+- Examination on Demand (EOD) to be notified from time to time. In general, there will be one EOD 
+in each semester, in addition to a special EOD towards the end of Academic Year.
+
+2.2.1. The Assessment breakup of Internal and External (Total Marks = 100 unless noted):
+Course Type | Internal-Theory | Internal-Practice | Internal-Project | External-Theory | External-Practice | External-Project
+Theory (100) | 40 | - | - | 60 | - | -
+Practice (100) | - | 50 | - | - | 50 | -
+Project (100) | - | - | 50 | - | - | 50
+Theory+Practice (100) | 20 | 30 | - | 30 | 20 | -
+Theory+Project (100) | 20 | - | 25 | 30 | - | 25
+Theory+Practice+Project (300*) | 40 | 50 | 50 | 60 | 50 | 50
+Practice+Project (200) | - | 50 | 50 | - | 50 | 50
+
+Details of Theory+Practice+Project (300*) breakdown:
+- Theory: Internal 40, External 60, Total basic assessment 100, % for grade award = 40%
+- Practice: Internal 50, External 50, Total basic assessment 100, % for grade award = 30%
+- Project: Internal 50, External 50, Total basic assessment 100, % for grade award = 30%
+
+- All Internal marks will be recorded in ERP and uploaded to EMS. All external marks to be sent 
+to QA cell in a sealed cover as per the direction of QA. 
+- Grading pattern to be followed as specified in the Subject Depository.
+- Pass marks: Theory 40%, Practice 50%, Project 50%. Student has to get pass percentage in individual components.
+- In case a student gets "F" grade in theory course, he/she will only appear for External 
+component as the internal marks are locked. But, in case of combination courses, the student 
+will have to appear for all the external components (theory + practice + project), even if the 
+student has cleared in some/ failed in some of the components.
+- Registration of a paper having pre-requisite condition indicates that, a student will only be 
+allowed to register provided he/she has cleared the pre-requisite paper at the time of registration.
+- A student may apply for rechecking and photocopy as per the norms. 
+- A student can appeal against the rechecking result(s) with a fee of Rs 5000/- per paper. The fee 
+will be refunded to the student in case the revised result (marks) is 10% or more than the earlier 
+rechecked marks. 
+
+2.2.2. Internal Assessment of Theory
+A theory paper will have 100 percentage points to be assessed through a number of Internal and 
+External Examination components as below:
+- Internal - I = 10 percentage points.
+- Internal - II = 10 percentage points.
+- Internal – III = 10 percentage points.
+- Assignments/quiz/viva-voce/attendance = 10 percentage points.
+- End Semester External Examination = 60 percentage points.
+Total = 100 percentage points.
+Note: 1. Preferably, Internal Examination and External Examination will be for 1 hr and 3 hr respectively.
+2. Any one of the Internal Examination can be done in project, presentation and any other 
+innovative mode. 
+
+2.2.3. Assessments of Projects, Internships & Seminars (In Domains & CBCS all)
+a. Projects:
+There will be Process and Output of the Project. Process will be dealt and marks will be given 
+by Internal Faculty/ Guide. Output will be evaluated by External Examiner (External Examiner 
++ Faculty committee of the Dept.). Internal Evaluation is 50% and External Evaluation is 50%.
+Process will include Literature review, design/techniques to be decided, Experiment/testing/
+simulation, Attendance, Observations/viva.
+Output will include Report, Product, Presentation etc.
+
+b. Internships:
+I. Student to maintain Log report/daily report signed by company person in the field --- 
+10% weightage
+II. Report submission (log report to be a part of the report) – 20% weightage
+III. Assessment Form will be provided by University to be filled in by the company/organisation 
+where internship is done --- 50% weightage
+IV. Presentation and Viva at Department level – 20% weightage.
+
+c. Seminars:
+I. Report – 40% weightage
+II. Presentation --- 30% weightage
+III. Attendance & Participation in seminar talks given by other students for the course --- 30% 
+weightage.
+
+3. General 
+3.1 The academic regulations should be read as a whole for the purpose of interpretation.
+3.2 In case of doubt or ambiguity in the interpretation of the above regulations, the decision of the 
+Vice-Chancellor is final.
+3.3 The University may change or amend the academic regulations at any time and the changes or 
+amendments made shall be applicable to all the students with effect from the dates notified by 
+the University. 
+*********************

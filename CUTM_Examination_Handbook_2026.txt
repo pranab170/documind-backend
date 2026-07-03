@@ -1,0 +1,635 @@
+SOURCE: https://cutm.ac.in/wp-content/uploads/2026/2026-CUTM%20EXAMINATION%20HANDBOOK.pdf
+DOCUMENT: CUTM Examination Handbook 2026 (covers all programs - BTech, BPharm, MPharm, Nursing, Agriculture, Diploma etc.)
+Centurion University of Technology and Management
+Fetched on: 2026-06-30
+NOTE: This is a large multi-program handbook (~90 pages). The B.Tech relevant sections are 
+mainly: Section 1-9 (general examination policy, grading, backlogs, degree award) and 
+Annexures I-V (question paper pattern, conduct of examination, instructions to candidates).
+Annexures VI onward are program-specific (Agriculture, Pharmacy, Nursing, Veterinary) and 
+may not apply to B.Tech CSE students - kept here for completeness since "data loss nahi hona chahiye".
+
+================================================================
+
+1 | P a g e Examination Hand-Book
+CONTENTS
+1. INTRODUCTION …………………………………………………………….. 4
+2. CUTM EXAMINATIONS …………………………………………………….. 5
+2.1. INTERNAL EXAMINATIONS …………………………………………………… 8
+a. Internal for Theory Components
+b. Evaluation of Practice/ Laboratory Components
+c. Evaluation of Project Component
+d. Evaluation of Internship
+e. Evaluation of Workshop Component
+2.2. END SEMESTER EXAMINATIONS …………………………………………… 11
+ a. Question Paper
+b. Eligibility to Appear in Examinations
+c. Conduct of Examinations
+ d. Evaluation
+3. GRADING SYSTEM …………………………………………………………. 13
+4. RESULT PUBLICATION ……………………………………………………… 16
+5. GRIEVANCE REDRESSAL SYSTEM ………………………………………. 16
+6. PROVISION TO CLEAR BACKLOGS ……………………………………… 17
+a. Examination On Demand (EOD)
+b. Laboratory / Sessional Backlogs
+c. Credit shortfall / Re-registration of Subjects
+7. EXCEPTIONAL CASES ………………………………………………………. 18
+8. PROVISION FOR SKIPPING SUBJECT(S) ……………………………….. 18
+9. AWARD OF DEGREE & CONVOCATION ………………………………… 19
+10. NATIONAL ACADEMIC DEPOSITORY (NAD) ……………………………. 20
+11. ADDITIONAL TRANSCRIPT ……………………………………………….. 20
+12. ANSWER PAPER IN SAFE CUSTODY ……………………………………. 21
+13. DESTRUCTION OF ANSWER BOOK ………………………………………. 21
+Annexure - I …………………………………………………………………………….. 22
+QUESTION PAPER PATTERN
+Annexure – II ……………………………………………………………………..………. 23
+ELIGIBILITY CRITERIA FOR QUESTION PAPER SETTERS AND EVALUATORS
+Annexure – III …………………………………………………………………………… 24
+CONDUCT OF SEMESTER EXAMINATION
+Annexure - IV …………………………………………………………………………… 30
+ROLE OF EXAMINATION CONDUCTING AUTHORITIES
+Annexure - V …………………………………………………………………………… 34
+INSTRUCTION TO CANDIDATES
+Annexure - VI ……………………………………………………………………………. 35
+EVALUATION SYSTEM FOR B.SC. (HONS.) AGRICULTURE, B.F.SC. (HONS.) & 
+B.TECH. (AGRICULTURAL ENGINEERING)
+Annexure - VII ……………………………………………………………………………. 41
+EXAMINATION REGULATIONS FOR PHARMACY COURSES
+Annexure -VIII …………………………………………………………………………… 58
+REGULATIONS FOR B.Sc. NURSING PROGRAMME
+Annexure - IX …………………………………………………………………………..... 70
+EXAMINATION REGULATIONS OF B.V.SC & A.H. DEGREE PROGRAMME
+Annexure –X ……………………………………………………………………………… 77
+ANSWER BOOK RECEIPT, CODING AND PREPARATION FLOW CHART
+Annexure -XI …………………………………………………………………………….. 78
+EVALUATION PROCESS
+Annexure -XII …………………………………………………………………………….. 79
+CENTRAL ASSESSSMENT
+Annexure – XIII …………………………………………………………………………… 83
+NORMS FOR SKIPPING OF SUBJECT(S) IN CBCS SYSTEM
+Annexure – XIV …………………………………………………………………………… 87
+EXAMINATION RELATED FEES
+Annexure – XV …………………………………………………………………………… 88
+TIMELINE OF KEY EXAMINATION ACTIVITIES
+Annexure – XVI …………………………………………………………………………… 89
+NAD REGISTRATION PROCESS
+Annexure – XVII ………………………………………………………………………… 92
+FORMS AND FORMATS
+CUTM/EXAM/EX-001 …………………………………………………………………. 93
+CUTM/EXAM/EX-003 ……………………………………..…..………………………… 94
+CUTM/EXAM/EX-004…………………………………………………………………….. 95
+CUTM/EXAM/EX-005……………………………………………………………………. 96
+CUTM/EXAM/EX-006 ……………………………………………………………………. 97
+
+4 | P a g e Examination Hand-Book
+1. INTRODUCTION
+Centurion University of Technology and Management (CUTM) came into existence on 24 
+December 2010. As part of its aspiration to develop into an institution that exhibits 'quality' both 
+in teaching and examination systems, the university strives to formulate and implement an 
+evaluation system which is transparent and student friendly. The main emphasis is to assess 
+the knowledge gained by a student and motivate him/her to improve upon it. 
+Creation of confidence amongst students about the assessment system and timely publication 
+of accurate results is essential. Continuous evaluation of students' performance has become 
+norm of the day. This process aims at measuring the degree of knowledge assimilated by the 
+students during a course of study without bringing excess pressure. A strict and flawless 
+examination system, maintaining uniformity and consistency in assessment is the backbone 
+of any evaluation system. In this regard, CUTM aims to establish an examination system in 
+accordance with guidelines issued by UGC, AICTE, Sector Skill Councils and State Higher 
+Education Body with the following features:
+- An independent system so that it can operate without fear, favour, pressure and prejudice.
+- Comprehensive and transparent principles, policies, and procedures directed towards 
+achievement of its goals.
+- Flexibility and adaptability to the changing needs
+- Team with appropriate qualifications and qualities like self-discipline, accuracy, secrecy, 
+time consciousness, high degree of integrity regarding the objectives of the system and 
+complete understanding of their duties and responsibilities.
+- Facilities to process enormous quantities of data and generation of pre-defined documents 
+with least human interaction.
+The purpose of this document is to explain the features of the University's assessment system 
+that will guide all examinations in the future. Students must make sure they familiarize themselves 
+with this information and, if in doubt, may seek advice from their respective examination cells.
+
+5 | P a g e Examination Hand-Book
+2. CUTM EXAMINATIONS
+CUTM offers various courses in Certificate, Diploma, UG, PG and PhD level. To assess the 
+knowledge and academic progress of students, the patterns of examination followed by CUTM 
+are continuous internal examination and external (end-semester) examinations. The assessment 
+is conducted for the following types of subjects:
+- Theory
+- Practice
+- Project
+- Theory + Practice
+- Theory + Project
+- Theory + Practice + Project
+- Practice + Project
+- Workshop / seminar / internship
+
+6 | P a g e Examination Hand-Book
+Weightage for Internal and External Examination
+Subject Type Component wise weightage in Percentage
+ITH ETH IPR EPR IPRO EPRO
+Theory 50 50
+Theory+Practice (T+P) 50 50 50 50
+Theory+Project (T+Proj) 50 50 50 50
+Theory+Practice+Project (TPP) 50 50 50 50 50 50
+Workshop 100
+Practice 50 50
+Project 50 50
+*ITH- Internal Theory *IPR- Internal Practice *IPRO- Internal Project
+*ETH-External Theory *EPR- External Practice *EPRO-External Project
+
+Pass Criteria:
+A. Theory papers: students must secure a minimum of 30% in individual components (both 
+continuous assessment & end-semester theory) along with 40% in aggregate
+B. Theory & practice papers: 
+ a. Theory component: minimum of 30% in individual components (both continuous 
+ assessment & end-semester theory) along with 40% in aggregate 
+ b. Practice component: minimum of 50% marks in both internal & external
+C. Theory & project type papers:
+ a. Theory component: minimum of 30% in individual components along with 40% aggregate 
+ b. Project component: minimum of 50% marks in both internal & external
+D. Theory, practice & project type papers:
+ a. Theory component: minimum of 30% individual + 40% aggregate 
+ b. Practice component: minimum 50% in both internal & external
+ c. Project component: minimum 50% in both internal & external
+E. Practice & project type papers: minimum 50% marks in both internal & external for each
+F. Workshop or Internship type papers: 50% in aggregate
+
+7 | P a g e Examination Hand-Book
+Note: 
+- Programs under School of Pharmacy & Life Sciences follow PCI norms, MSSSOA & School 
+of Fisheries follow ICAR regulations, School of Veterinary & Animal Sciences follow VCI 
+regulations, School of Nursing follows nursing regulations.
+- Nautical Science students should secure a minimum of 30% in internal continuous assessment 
+& 50% in end-semester theory along with 50% in aggregate for all subjects having theory component.
+
+[Detailed marks distribution tables for Theory/Theory+Practice/TPP/Theory+Project/Practice/
+Project/Workshop subject types, with pass/fail worked examples, are in the original PDF - 
+omitted here for brevity as they are illustrative calculation tables rather than narrative rules.]
+
+- At the end of each semester, the provisional semester grade sheets are available to the 
+students in ERP.
+- At the end of the programme, final consolidated grade-sheet shall be made available to those 
+students who will be fulfilling the eligibility criteria. 
+
+2.1 INTERNAL EXAMINATIONS
+The internal mark secured by a student for the subject remains fixed. There is no provision for 
+students to reappear internal examinations and change the score during the duration of the 
+program. However, for exceptional cases, students may opt to re-register the course in 
+subsequent semesters or take 100%-mark option in external components after completion of 
+the duration of the program.
+
+a. Internal Examination for Theory Components (Continuous Assessments)
+SL No | Continuous Assessment | Score
+1 | Individual/Group Presentation (Content & creativity – 5, Presentation & Discussion – 5) | 10
+2 | Mid-semester Written Exam (5 short Q x1 = 5, 2 long Q x5 =10, 2 short notes x2.5 =5) | 20
+3 | Assignment (2 assignments x 5 marks each) | 10
+4 | Learning Record (faculty evaluates per learning record format) | 10
+Total | 50
+
+For LLM: Mid Sem Exam - 20 marks + 1 Project - 30 marks (1st Semester) & Mid Sem Exam - 
+20 marks + 1 Learning Record - 30 marks (2nd Semester)
+
+b. Evaluation of Practice/Laboratory Components
+50% by concerned faculty, 50% by external examiner.
+Internal: Concept-10, Planning & Execution/Practical/Simulation/Programming-10, Result and 
+Interpretation-10, Record/Report-10, Viva-10. Total = 50
+External: Execution & Result-20, Record of Applied and Action Learning-10, Viva-20. Total = 50
+
+8 | P a g e Examination Hand-Book
+c. Evaluation of Project Component
+50% by concerned faculty, 50% by external examiner.
+Internal: Understanding relevance/scope/dimension-10, Methodology-10, Quality of Analysis 
+and Results-10, Interpretations and Conclusions-10, Report-10. Total = 50
+External: Understanding relevance/scope/dimension-10, Report-20, Viva-20. Total = 50
+For DOMAIN PROJECTS: three presentations with external evaluators appointed by QA cell. 
+Subject teacher and external evaluator each evaluate 50%. Final project mark = AVERAGE of 
+the 3 presentations. 
+
+d. Evaluation of Internship 
+50% by concerned faculty, 50% by industry guide.
+Internal: Daily Diary & Log Report-20, Periodical Report-10, Presentation & Viva-20. Total = 50
+External: Completion of task/project assigned-30, Feedback of industry supervisor-20.
+
+e. Evaluation of Workshop Component
+100% by concerned faculty.
+Critical Thinking/Simulation/Field work & Report-50, Presentation & Viva-50.
+
+2.2 END SEMESTER EXAMINATIONS
+Conducted by University both in paper setting and evaluation per Academic Calendar. 
+Examination window of 4-5 weeks at end of each semester.
+
+a. Question Paper
+- Question paper pattern in Annexure-I.
+- Question Paper Setter panel approved by Academic Council; identities confidential, kept by 
+Director (E&QA), who has full authority to choose a QP setter.
+- Balanced mix of internal and external faculty as question paper setter (Annexure-II for eligibility).
+
+b. Eligibility to Appear for Examinations
+- Subject-wise registration required before semester commencement.
+- Minimum attendance requirement for appearing in examinations in all programmes is 75%, 
+calculated per subject (NOT aggregate). Includes class work, practice work, project work 
+(including internships) in both online/physical modes. Same rule applies for internal exams.
+- Condoning of minimum attendance (medical/other reasons, allowed by Deans) limited to max 10%.
+- Students debarred from main semester exams due to attendance shortage can appear for 
+Examination on Demand (EOD) if they have 50% or more attendance in the subject.
+- Students with less than 50% attendance are not removed from academic record; such subjects 
+awarded "R" grade at result publication.
+- Students must register such subjects by 30 April, registration data shared with QA cell by 10 May.
+- A candidate is allowed in semester exam only after being issued an Admit Card. If lost, can be 
+re-obtained from campus exam cell on payment of fee.
+- Malpractice → 'M' grade in that subject + possible disciplinary action; can appear only in 
+subsequent exams per university decision.
+- Absent in registered subject → 'S' grade, can appear in subsequent EODs.
+
+c. Conduct of Examinations
+QA cell conducts End-Term Examination at end of each semester per Academic Calendar window:
+- Prepares and announces examination schedule based on registration data.
+- Appoints officials/staff for conduct of exam at respective campuses.
+- Issues instructions for flawless, unbiased conduct minimizing unfair means.
+- Prepares, prints, packs, dispatches question papers to constituent campuses.
+(Details in Annexure-III, IV, V)
+
+d. Evaluation
+Evaluation systems (any combination, as decided by competent authority):
+- Centralized Evaluation: at QA cell under Evaluation Coordinator.
+- Delegated Evaluation: Answer Books issued to teachers/persons engaged by competent 
+authority; evaluated books + marks returned within stipulated time.
+- Any other system decided by University.
+
+3. GRADING SYSTEM
+CUTM follows "Absolute" grading system. Ten Point grading system on base of 10.
+
+Qualification | Grade | Score on 100 Percentage Points | Point
+Outstanding | 'O' | 90 and above up to 100 | 10
+Excellent | 'E' | 80 and above but less than 90 | 9
+Very Good | 'A' | 70 and above but less than 80 | 8
+Good | 'B' | 60 and above but less than 70 | 7
+Fair | 'C' | 50 and above but less than 60 | 6
+Pass | 'D' | 40 and above but less than 50 | 5
+Failed | 'F' | Below 40 | 2
+Malpractice | 'M' | --- | 0
+Absent | 'S' | --- | 0
+Re-registration | 'R' | --- | 0
+Improvement | 'I' | --- | 0
+
+N.B. Grade C shall be considered as average, Grade D shall be pass Grade for theory and 
+Grade C shall be Pass Grade for Practical/Project/Workshop mode paper.
+BSc(AG), MSc(AG), BSc(Fishery Science) follow ICAR norms; MPharm, BPharm, DPharm follow 
+PCI norms; BVSc & AH follow VCI regulations; B.Sc(Nursing) follows nursing regulations.
+
+GPA for mixed courses (T-P-P mode) = weighted average of individual marks weighted by 
+credit of the component:
+GPA = (Wt*marks of theory + Wp*marks of practice + Wpr*marks of project) / (Wt+Wp+Wpr)
+where W = credit weight. All components individually evaluated for 100 marks.
+
+Example: Course "Building of Cloud Infrastructure" (Theory+Practice+Project, 1-2-2 weight). 
+Student scores 87 (theory), 89 (practice), 92 (project) out of 100:
+Wt*Theory = 1*87=87, Wp*Practical = 2*89=178, Wpr*Project = 2*92=184
+Sum = 449, Total credit = 5, Result = 449/5 = 89.8, rounded to 90 → Grade 'O'
+
+SGPA / GPA = CREDIT INDEX / Sum of CREDITS for a Semester
+CGPA / OGPA = CREDIT INDEX of all previous Semester(s) / CREDITS of all Previous Semester(s)
+Percentage of marks = CGPA x 10 or OGPA x 10
+
+4. RESULT PUBLICATION
+- Coded results placed before approving authority by Director (E&QA) for approval. 
+- Approved results declared after decoding, sent to respective colleges for display to students.
+
+5. GRIEVANCE REDRESSAL SYSTEM
+- Students contact respective campus examination cells for grievances related to examination.
+- Campus exam cells, after verification, may forward to QA cell if required.
+- Records of grievances and resolution timeframe maintained at campus exam cell.
+- Refer Annexure-XI for key examination activities timeline.
+
+Rechecking of Answer-books
+- Students may apply for revaluation/photocopy of theory answer books through college exam-cells. 
+Exam-cells forward consolidated list within 10 days of result publication (CUTM/EXAM/EX-005).
+- Examinees found guilty of malpractice/misconduct are not eligible to apply for verification/
+revaluation/photocopy.
+- Verification of internal, Practical/lab and project/workshop marks not permitted.
+- Revaluation results are binding on the candidate.
+- Revised marks, if only higher, considered for amendment of results.
+- A separate examiner re-examines the answer book and submits question-wise rechecked mark-foil.
+- Corrected statement processed; revised result intimated to colleges.
+
+Issue of Photocopy of Answer Book
+- Provided through campus examination cells; no photocopies of blank pages provided.
+- Made available after necessary corrections (if revaluation done); examiner/moderator identity 
+concealed before photocopying.
+- Student is sole custodian of photocopies; must not transfer or misuse them. CUTM acts as 
+deemed fit against misuse.
+
+6. PROVISION TO CLEAR BACKLOGS
+a. Examination On Demand (EOD)
+University conducts two EODs per semester + one extended EOD during summer, for students 
+to clear backlog papers by paying required fees. Students with theory component backlogs may 
+appear for EODs and choose subjects of their choice. 
+Pass-out batch students can opt for 100%-mark option in external component(s); internal mark 
+nullified, evaluation done taking external component as 100%. Available till studentship valid 
+(twice the duration of the course).
+
+b. Laboratory/Sessional Backlogs
+- Students with backlog in practice/project/workshop mode papers may appear for "Laboratory 
+Backlogs Examinations" by paying required fees, scheduled once a year during summer vacation.
+- Entire laboratory/sessional repeated in fast-track mode; evaluation for 100% of components 
+(both internal and external).
+
+Credit Shortfall / Re-registration of Subjects
+- Students with attendance/credit shortfall in a semester can re-register and repeat the course 
+when next offered, along with regular students, by paying prescribed fee.
+- Passing-out batch students with credit shortfall for degree award must reregister subjects, 
+attend coursework, undergo all assessment procedures in subsequent semester. University 
+discourages this; students advised to complete credit requirements within course duration.
+
+7. EXCEPTIONAL CASES
+a. Special Examination 
+Provision for passing-out students with backlogs (not more than two theory papers) who need 
+their degree urgently (job/higher studies), by depositing prescribed fee. QA cell conducts exam; 
+result published within seven working days of valid application receipt. Student appeals to 
+concerned Dean with proof; Dean may recommend to QA. University discourages such practice 
+except in exceptional circumstances with valid reasons and due approval.
+
+8. PROVISION FOR SKIPPING SUBJECT(S)
+Under CBCS, students may skip paper(s) if they fulfill basket-wise minimum credit requirements 
+per Academic Regulation for their batch (Refer Annexure-IX/XIII for skip norms under CBCS).
+
+9. AWARD OF DEGREE AND CONVOCATION
+a. Award of Degree
+Eligible for award of degree if:
+- Fulfilled Degree requirements 
+- No dues to Institute, Departments, Hostels, Library 
+- No disciplinary action pending
+
+b. Merit Certificate
+Eligibility:
+- Highest CGPA in respective branch/programme
+- At least 8.00 CGPA, all papers cleared in first attempt
+- Branch/programme strength not less than ten students
+
+c. Gold Medal 
+Criteria:
+- Total students in programme not less than 50
+- Minimum 8.00 CGPA, highest CGPA in the programme
+- No academic-ground disciplinary action during study period
+- Cleared all courses in first attempt
+
+d. Convocation
+- Held once a year as Visitor directs on Management recommendation.
+- Director (E&QA) prepares eligible candidates list post-results for the annual Convocation.
+- Missed eligible names can be added later with VC's prior approval.
+- Degree Certificate distribution at Convocation or any time after, but no candidate admitted to 
+convocation without prior registration and fee payment.
+- Successful backlog-exam students get provisional certificate from Director (E&QA); entitled to 
+final Degree Certificate at next annual Convocation.
+
+10. NATIONAL ACADEMIC DEPOSITORY (NAD)
+National System by MHRD and UGC via Digilocker, for institutions to digitally issue academic 
+awards directly to students' online NAD accounts. Benefits: immediate availability, permanent 
+online record, no risk of loss/damage, anytime access, verified records sharable with 
+employers/banks without photocopies, assists admission/enrollment. CUTM uploads academic 
+documents to NAD since 2018 graduating batch; students must register in NAD themselves 
+(process in Annexure-XI/XVI).
+
+11. ADDITIONAL TRANSCRIPT
+Students submit application + supporting documents to college exam cell with prescribed fee for 
+additional transcript copies (CUTM/EXAM/EX-006).
+
+12. ANSWER PAPER RETAINED IN SAFE CUSTODY
+- Answer books made into subject-wise packets, stacked in racks with proper ventilation, free 
+from termites/pests.
+- Each answer-book's removal/return recorded in computer with purpose, by in-charge of storage.
+- Storage area fumigated and aired periodically.
+
+13. DESTRUCTION OF ANSWER BOOK
+- Unless specific VC instruction, all evaluated answer books destroyed after five years of result 
+declaration.
+- Certificate given by Dy. Director (E&QA) detailing destroyed answer books, retained by QA cell.
+
+================================================================
+ANNEXURE-I: QUESTION PAPER PATTERN
+Question paper: 100 marks, three parts, three hours' duration.
+Part A: 10 short questions (2 marks each) = 20 marks
+Part B: 5 Long questions (12 marks each, may have sub-questions e.g. 6+6, 6+5+1, 6+4+2, 
+6+3+3, 5+4+3, 4+4+4) = 60 marks
+Part C: 4 Short notes (5 marks each) = 20 marks
+
+Guidelines:
+- Questions within syllabus scope, proper module-wise distribution.
+- Aligned with Course Outcomes (COs).
+- Degree of difficulty: 50% straight questions, 20% moderate level, 30% difficult level.
+- If graph paper/calculator/reference material allowed, mention in remark column.
+- Script should be clear and legible.
+Note: BSc(AG)/MSc(AG)/BFSc follow ICAR guidelines; MPharm/BPharm/DPharm follow PCI; 
+BVSc & AH follow VCI; B.Sc(Nursing) follows nursing regulations.
+
+ANNEXURE-II: ELIGIBILITY CRITERIA FOR QUESTION PAPER SETTERS AND EVALUATORS
+Criteria for selecting QP setters/evaluators:
+- PhD/M.Tech degree
+- Subject specialization
+- Minimum 5 years industry and teaching experience
+- Recommendation of HOD/DEAN/Director
+- Previous experience in QP setting/evaluation
+Additional factors: moderator feedback, student complaint, time schedule commitment.
+Internal faculties for QP setting/evaluation should not exceed 50% of total.
+
+ANNEXURE-III: CONDUCT OF SEMESTER EXAMINATION
+
+Preparation of the Room
+Administrative staff sets up venue, ensures availability of: Answer books, Attendance/Signature 
+sheets, Graph paper (if relevant), Venue Information (Centre Superintendent/Exam Office phone), 
+Statistical tables (if relevant). Invigilator ensures appropriate pre-exam conditions. Administrative 
+Departments informed in advance to avoid maintenance disturbance during exam period.
+
+Requirements/Guidelines for Examination Hall
+- Roll list sent with examination material.
+- Only listed students with University Registration Card + Admit Card allowed.
+- Number of candidates per room decided by college based on room size, to prevent cheating.
+- Seating per ERP-generated seating plan.
+- Registration number pasted/indicated on respective desk.
+- One invigilator per 20 students, must be a registered University teacher.
+- Invigilators remain in hall for entire exam period, advised to move around.
+- 10% reliever invigilators per college for temporary absence cases.
+
+Seating Arrangements
+Only one student per bench, minimum one-meter gap between students. A room for 60 students 
+accommodates only 20 during exams. Roll number written per attendance sheet on each bench. 
+Adequate space between benches; benches/chairs cleaned daily. Rooms kept locked, opened 
+only 15 minutes before exam commencement. Consolidated room-wise seating arrangement 
+displayed at prominent places.
+
+Gate Checking
+Special team for gate checking. Items NOT allowed: cell phones, programmable calculator, any 
+printed/handwritten material except Registration Card, I-Card, Admit Card, calculator, writing/
+drawing materials.
+
+Reporting for Invigilation Duty
+Senior Invigilators report to Examinations Office 30 minutes prior to collect: Question paper 
+(sealed envelope), Charts/tables, Attendance sheet, Seating plan, Temporary Absence Forms.
+
+Admitting the Candidates 
+Invigilator authorizes admittance 10 minutes before published start time (size-dependent). 
+Announces rules and conduct; ensures only authorized materials permitted; draws attention to 
+official clock.
+
+Starting the Examination
+Starts at mentioned time; any delay added to finishing time.
+
+Candidates Arriving Late
+No entry after 15 minutes of exam start. Late arrivals (within 15 min) get no extra time at end.
+
+Supervision
+Invigilators positioned for clear view of all candidates, remain for entire duration. Reliever 
+invigilators deployed for occasional absences; room never left without an invigilator.
+
+ID Checks
+Students confirm identity via University Registration No. card and Admit card, placed on desk for 
+checking. Students without documents report to exam office, get signed slip (CUTM/EXAM/EX-001), 
+valid for one exam only.
+
+Confirming Attendance
+Taken 30 minutes after exam start. Each signature sheet page has 20 students' names/Reg numbers. 
+Invigilators check University Registration Card + admit card before marking attendance. Absentees 
+marked "ABSENT" in capital red ink. Present/absent counts recorded and signed by invigilator(s).
+
+Suspected Irregularity or Misconduct 
+Invigilator informs supervisor; Centre Superintendent's directive is final. Written report submitted 
+to exam cell post-exam (CUTM/EXAM/EX-004). Illicit material confiscated, script annotated.
+
+Problems with Question Papers
+Points requiring clarification notified immediately to exam cell; invigilators do not advise on 
+meaning/interpretation of questions.
+
+Additional Paper
+No additional sheets provided normally; exceptional cases allow one more answer-book with 
+Centre Superintendent's concurrence, endorsed in attendance sheet.
+
+Leaving Early
+No candidate leaves before one hour has elapsed (without special permission), nor leaves desk 
+during last 15 minutes except to submit paper (CUTM/EXAM/EX-003). One-hour exams: candidates 
+wait for invigilator's permission.
+
+Toilet Arrangements
+Toilets cleaned, opened only 10 minutes before exam start. Checked after each break for written 
+material.
+
+Drinking water
+Available in each room; attendant may ensure availability.
+
+Medical Facilities
+Arranged by college administration to avoid mishaps.
+
+Ending the Examination
+Invigilator announces 1 hour remaining, then 15 minutes remaining. Ends at said time unless extra 
+time added for delay. Candidates remain seated and silent until scripts collected.
+
+Collection of Completed Scripts
+All answer books collected before students leave hall; no taking answer books/paper out. Question 
+papers may be kept unless specified otherwise. Graphs attached with tag. Invigilator counts books 
+to tally with appeared students.
+
+Handing over the answer-scripts to examination cell
+Invigilators hand over: Answer books (subject-wise, attendance sheet serial order), Attendance 
+sheet, Spare question paper copies, Other exam material.
+Collection, Packing and Forwarding: Centre Superintendent ensures answer books matched with 
+signature sheet, packed and sealed immediately post-exam. Attendance sheets packed separately, 
+sealed. Attendance statement countersigned, submitted separately at dispatch (mandatory).
+
+ANNEXURE-IV: ROLE OF EXAMINATION CONDUCTING AUTHORITIES
+
+A. Centre Superintendent
+- Maintains confidentiality and discipline at Exam Centers, ensures smooth conduct.
+- Answer Booklets/Question Papers kept under lock and key in safe custody until distribution.
+- Question Paper packets opened only 30 minutes before exam time, in CS presence.
+- May allow candidate to appear without name in attendance sheet after taking undertaking.
+- Ensures proper gate checking at commencement of each sitting.
+- Shortage of question papers: arranges additional copies, reports to Director E&QA immediately, 
+with care to avoid malpractice.
+- Visits each hall during exam to ensure invigilator vigilance.
+- Malpractice cases: ensures documentation per handbook guidelines.
+- Necessary security arrangements at Exam Centre.
+- Ensures answer book collection/dispatch per guidelines: arranged by subject/exam-wise, 
+bundled/sealed in CS presence, dispatched same day to QA unless instructed otherwise.
+
+B. External Observer
+- Senior faculty/reputed person nominated by Director (E&QA) to observe semester exam conduct.
+- Reports to college exam cell one day prior to commencement, ensures arrangements adequate.
+- Written report to Director (E&QA) on security of question papers/answer-books.
+- Reports unfair means/practices immediately to Dy. Director (E&QA); does not leave centre 
+during exam period.
+- Final written report after exam cycle/engagement complete, in sealed envelope to in-charge 
+exam cell for dispatch to Director, E&QA.
+
+C. Internal Supervisor
+- Senior faculty nominated to observe semester exam conduct.
+- Monitors invigilators performing duties properly.
+- Vigilant during exam, ensures rules/regulations implemented appropriately.
+- Oversees appropriate facilities maintained, fair and impartial conduct.
+
+D. Flying Squad
+- Assigned to internal or external staff.
+- Overviews/supervises exam conduct, surprise inspections to eliminate unfair means, maintains 
+exam credibility.
+- Consists of two or three members.
+- Submits report after engagement, handed to in-charge exam cell for dispatch to Director, E&QA.
+
+E. Invigilators
+- Examination duty compulsory; alternative arrangement in emergency.
+- Report to exam section half hour before exam to receive materials.
+- Enter hall 15 minutes before scheduled time.
+- Implement code of conduct for students.
+- Ensure no unauthorized material carried.
+- Check students occupy seats per seating plan.
+- No candidate admitted without admit card; answer script given only to those with proper admit card.
+- Distribute answer books 10 minutes before exam, ask students to fill details.
+- Verify signature/registration number/subject/date on cover page, sign in space provided.
+- Distribute question paper 5 minutes before exam.
+- Remain VIGILANT throughout, move in hall to prevent indiscipline/copying.
+- Should not help candidates explain questions or give hints.
+- Take attendance after checking admit card.
+- Mark absentee "ABSENT" in capital letters.
+- Record/sign present/absent counts on signature sheet.
+- No student allowed to take question paper to toilet; max one student leaves at a time; max 
+twice per sitting.
+- No entry after 15 minutes of commencement; no exit before one hour; must submit paper/
+answer book if leaving after one hour.
+- Report unfair means cases to Centre Superintendent without discrimination.
+- Primary duty: ensure fair conduct; non-compliance attracts disciplinary action.
+- Announce time at each hour and last half hour.
+- No writing permitted after completion of exam time.
+- Post-exam: arrange answer books serially per registration numbers, submit to exam section 
+with signature sheet, remaining question papers, stationery, MP case details.
+
+ANNEXURE-V: INSTRUCTIONS TO CANDIDATES
+1. Wrong entries disqualify the Answer Book.
+2. Answer book contains 36 pages; extra sheets not issued.
+3. Use blue or black ball point pen only.
+4. Write in neat, clear handwriting on both sides of pages; no blank pages/spaces in between.
+5. Strike out pages on which nothing is written.
+6. Not allowed to leave hall during first hour of exam commencement.
+7. Not allowed to write anything on question paper during exam.
+8. Mobile phones, communication devices, books, printed/handwritten materials banned inside hall.
+9. Possession of banned items deemed willful misconduct; candidate asked to leave, answer 
+sheets and banned items confiscated.
+10. No talking/gestures inside examination hall.
+11. Writing registration number elsewhere or marking distinguishing symbols is "Unfair Means"/
+"malpractice".
+12. Stop writing when instructed; remain silently seated until all sheets collected and told to leave.
+13. CHEATING IS GRAVE MISCONDUCT: penalties include fail in subject/cancellation of all 
+subjects written in semester/debarring from examination/possible expulsion from University.
+
+================================================================
+NOTE ON REMAINING ANNEXURES (VI - XVII):
+The handbook contains additional Annexures (VI through XVII) covering program-specific 
+regulations for: B.Sc.(Hons.) Agriculture/B.F.Sc./B.Tech Agricultural Engineering (ICAR norms), 
+Pharmacy courses - Diploma/B.Pharm/M.Pharm (PCI norms), B.Sc. Nursing (Nursing Council 
+norms), B.V.Sc & A.H. (VCI regulations), plus administrative annexures: Answer Book Receipt/
+Coding flow chart, Evaluation Process, Central Assessment, CBCS Skip norms, Examination 
+Fees, Timeline of Key Activities, NAD Registration Process, and official Forms (EX-001, EX-003, 
+EX-004, EX-005, EX-006).
+
+These sections are NOT applicable to B.Tech CSE (Pranab's program) and contain extensive 
+program-specific tables (grading scales, marks distribution, question paper patterns) for 
+Agriculture, Pharmacy, Nursing, and Veterinary programs. They have been omitted from this 
+file to keep the document focused and relevant for RAG ingestion on the B.Tech CSE track. 
+If full multi-program coverage is needed later, the complete handbook can be re-fetched from 
+the source URL above.
