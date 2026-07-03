@@ -1,145 +1,106 @@
-# DocuMind — CUTM RAG Document Assistant
+# 🧠 DocuMind - CUTM Document Intelligence Assistant
 
-Production-grade RAG system built on CUTM official documents.
-Features hybrid BM25 + vector retrieval, RAGAS evaluation pipeline, and FastAPI backend.
+> An interactive, AI-powered RAG (Retrieval-Augmented Generation) assistant designed to instantly navigate, retrieve, and answer queries regarding the official academic regulations and handbooks of Centurion University of Technology and Management (CUTM).
 
----
-
-## Project Structure
-
-```
-documind/
-├── data/
-│   ├── raw_docs/               ← CUTM .txt documents (already here)
-│   ├── chroma_db/              ← Auto-created after ingestion
-│   └── eval_results/           ← Auto-created after evaluation
-├── src/
-│   ├── ingestion/
-│   │   └── ingest.py           ← Step 1: Load + Chunk + Embed docs
-│   ├── retrieval/
-│   │   ├── retriever.py        ← Step 2: Hybrid BM25 + Vector search + RRF
-│   │   └── rag_chain.py        ← Step 3: LLM generation (Claude/OpenAI)
-│   ├── api/
-│   │   └── main.py             ← FastAPI server
-│   └── eval/
-│       └── evaluate.py         ← RAGAS evaluation pipeline
-├── requirements.txt
-├── .env.example
-└── README.md
-```
+![DocuMind Demo](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Spaces-F58025?style=for-the-badge&logo=huggingface)
 
 ---
 
-## Setup (Step by Step)
+## ✨ Key Features
 
-### 1. Create virtual environment
-```bash
-conda create -n documind python=3.11
-conda activate documind
-```
+* **Hybrid Retrieval System:** Combines traditional keyword search (BM25) with semantic vector search (ChromaDB) for highly accurate document retrieval.
+* **Reciprocal Rank Fusion (RRF):** Intelligently merges results from both retrieval methods to surface the most relevant context chunks.
+* **Source Citations:** Generates grounded answers and provides exact source chunks (document names and text snippets) used to formulate the response.
+* **Optimized LLM Inference:** Powered by Groq API for lightning-fast response generation.
+* **Modern UI/UX:** A sleek, dark-mode React frontend for a seamless interactive chat experience.
 
-### 2. Install dependencies
-```bash
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+* React (Vite)
+* Tailwind CSS (Styling)
+* Hosted on **Cloudflare Pages**
+
+**Backend:**
+* FastAPI (REST API framework)
+* LangChain (Orchestration)
+* ChromaDB (Vector Database)
+* HuggingFace `sentence-transformers/all-MiniLM-L6-v2` (Embeddings)
+* Groq API (LLM for text generation)
+* Containerized with Docker & Hosted on **Hugging Face Spaces** (16GB RAM, 2vCPU)
+
+---
+
+## 🏗️ System Architecture
+
+1. **Ingestion:** CUTM rulebooks (PDFs/TXTs) are chunked and embedded using HuggingFace models, then stored locally in ChromaDB.
+2. **Retrieval:** User queries trigger a parallel search—BM25 looks for exact rule numbers/keywords, while ChromaDB finds semantic meaning.
+3. **Fusion:** RRF algorithms rank the best chunks from both pipelines.
+4. **Generation:** The top chunks are sent to the Groq LLM along with the user's query to synthesize a factual, referenced answer.
+
+---
+
+## 🚀 Local Setup & Installation
+
+### Prerequisites
+* Python 3.11+
+* Node.js & npm
+
+### Backend Setup
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/pranab170/documind-backend.git](https://github.com/pranab170/documind-backend.git)
+   cd documind-backend
+
+   Install Python dependencies:
+
+Bash
 pip install -r requirements.txt
-```
+Set up Environment Variables:
+Create a .env file in the root directory and add your Groq API key:
 
-### 3. Set up API keys
-```bash
-cp .env.example .env
-# Edit .env and add your ANTHROPIC_API_KEY
-```
+Code snippet
+GROQ_API_KEY=gsk_your_api_key_here
+Start the FastAPI Server:
 
-### 4. Run ingestion (one-time setup)
-This loads your CUTM docs, chunks them, embeds them, and stores in ChromaDB.
-```bash
-python -m src.ingestion.ingest
-```
-Expected output:
-```
-Loaded 3 documents
-Created ~180 chunks
-Vector store built with ~180 vectors
-=== Ingestion Complete ===
-```
+Bash
+uvicorn main:app --reload --host 0.0.0.0 --port 8000
+The API will be available at http://localhost:8000
 
-### 5. Start the API server
-```bash
-uvicorn src.api.main:app --reload --host 0.0.0.0 --port 8000
-```
+Frontend Setup
+Navigate to the frontend directory:
 
-### 6. Test a query
-```bash
-curl -X POST http://localhost:8000/query \
-  -H "Content-Type: application/json" \
-  -d '{"query": "CUTM mein attendance kitni chahiye exam dene ke liye?"}'
-```
+Bash
+cd documind-frontend
+Install dependencies:
 
-### 7. Run evaluation
-```bash
-python -m src.eval.evaluate
-```
-Expected output:
-```
-Faithfulness      : 87.5%
-Answer Relevancy  : 91.2%
-Context Precision : 83.0%
-Context Recall    : 79.8%
-Overall Average   : 85.4%
-```
+Bash
+npm install
+Configure the API endpoint in your config (e.g., src/App.jsx):
 
----
+JavaScript
+const API_URL = "http://localhost:8000";
+Start the Vite development server:
 
-## API Endpoints
+Bash
+npm run dev
+🐳 Docker Deployment
+To build and run the backend using Docker (as configured for Hugging Face Spaces):
 
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| GET | `/` | Health check + endpoint list |
-| GET | `/health` | Retriever status + vector count |
-| POST | `/query` | Main query endpoint |
-| GET | `/debug/chunks?query=...` | See retrieved chunks + RRF scores |
-| GET | `/docs` | Interactive Swagger UI |
+Bash
+docker build -t documind-api .
+docker run -p 7860:7860 -e GROQ_API_KEY="your_api_key" documind-api
+👨‍💻 Author
+Pranab Paul
 
-### Query Request
-```json
-{
-  "query": "What is the minimum attendance to appear in exams?",
-  "top_k": 5
-}
-```
+GitHub: @pranab170
 
-### Query Response
-```json
-{
-  "query": "...",
-  "answer": "According to the 2026 Examination Handbook, students must maintain...",
-  "sources": ["CUTM_Examination_Handbook_2026_FULL.txt"],
-  "source_chunks": [...],
-  "model": "claude-sonnet-4-6",
-  "context_chunks_used": 5,
-  "latency_ms": 1240.5
-}
-```
+B.Tech Computer Science and Engineering, CUTM Bhubaneswar
 
----
-
-## Resume Points (after building this)
-
-- "Built a production RAG system with hybrid BM25 + semantic retrieval using Reciprocal Rank Fusion"
-- "Implemented automated evaluation pipeline using RAGAS (faithfulness, answer relevancy, context precision, context recall)"
-- "Achieved X% faithfulness score across 10 golden test queries on CUTM academic documents"
-- "Deployed FastAPI backend with real-time observability (latency tracking, source citations)"
-
----
-
-## Tech Stack
-
-| Component | Technology |
-|-----------|-----------|
-| Embeddings | sentence-transformers/all-MiniLM-L6-v2 (free, local) |
-| Vector DB | ChromaDB (local persistent) |
-| Keyword Search | BM25Okapi (rank-bm25) |
-| Ranking | Reciprocal Rank Fusion |
-| LLM | Claude (claude-sonnet-4-6) |
-| API | FastAPI + Uvicorn |
-| Evaluation | RAGAS |
-| Data | CUTM official documents (2026 Handbook + BTech Regulations) |
+Note: This is an independent project designed for educational purposes and is not officially affiliated with CUTM's administration.
