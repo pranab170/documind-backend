@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect } from "react";
 
-const API_URL = "https://documind-backend-jhp4.onrender.com";
+const API_URL = "https://pranabpaul102-documind-api.hf.space";
 
 const QUICK_QUESTIONS = [
   "Attendance requirement for exams?",
