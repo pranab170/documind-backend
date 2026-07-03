@@ -1,8 +1,8 @@
 # 🧠 DocuMind - CUTM Document Intelligence Assistant
 
-> An interactive, AI-powered RAG (Retrieval-Augmented Generation) assistant designed to instantly navigate, retrieve, and answer queries regarding the official academic regulations and handbooks of Centurion University of Technology and Management (CUTM).
+> An interactive, AI-powered RAG (Retrieval-Augmented Generation) assistant designed to instantly navigate, retrieve, and answer queries regarding the official academic regulations of Centurion University of Technology and Management (CUTM).
 
-![DocuMind Demo](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -10,79 +10,76 @@
 
 ---
 
-## ✨ Key Features
+## 🚀 Project Overview
 
-* **Hybrid Retrieval System:** Combines traditional keyword search (BM25) with semantic vector search (ChromaDB) for highly accurate document retrieval.
-* **Reciprocal Rank Fusion (RRF):** Intelligently merges results from both retrieval methods to surface the most relevant context chunks.
-* **Source Citations:** Generates grounded answers and provides exact source chunks (document names and text snippets) used to formulate the response.
-* **Optimized LLM Inference:** Powered by Groq API for lightning-fast response generation.
-* **Modern UI/UX:** A sleek, dark-mode React frontend for a seamless interactive chat experience.
+DocuMind is not just a basic chatbot; it is a custom-built document intelligence system. It reads through complex university rulebooks and provides exact, grounded answers with citations. 
 
----
-
-## 🛠️ Tech Stack
-
-**Frontend:**
-* React (Vite)
-* Tailwind CSS (Styling)
-* Hosted on **Cloudflare Pages**
-
-**Backend:**
-* FastAPI (REST API framework)
-* LangChain (Orchestration)
-* ChromaDB (Vector Database)
-* HuggingFace `sentence-transformers/all-MiniLM-L6-v2` (Embeddings)
-* Groq API (LLM for text generation)
-* Containerized with Docker & Hosted on **Hugging Face Spaces** (16GB RAM, 2vCPU)
+### ✨ Key Features
+* **Hybrid Retrieval System:** Combines exact keyword matching (BM25) with semantic meaning search (ChromaDB Vector Store).
+* **Reciprocal Rank Fusion (RRF):** Intelligently merges results from both retrieval methods to find the most accurate rule/clause.
+* **Source Citations:** Every answer includes the exact document name and text snippet used to generate it.
+* **Lightning Fast LLM:** Powered by the Groq API for rapid inference and response generation.
 
 ---
 
-## 🏗️ System Architecture
+## 🛠️ Tech Stack & Architecture
 
-1. **Ingestion:** CUTM rulebooks (PDFs/TXTs) are chunked and embedded using HuggingFace models, then stored locally in ChromaDB.
-2. **Retrieval:** User queries trigger a parallel search—BM25 looks for exact rule numbers/keywords, while ChromaDB finds semantic meaning.
-3. **Fusion:** RRF algorithms rank the best chunks from both pipelines.
-4. **Generation:** The top chunks are sent to the Groq LLM along with the user's query to synthesize a factual, referenced answer.
+### Frontend (Client-Side)
+* **Framework:** React.js (Vite)
+* **Styling:** Tailwind CSS (Custom Dark Mode UI)
+* **Hosting:** Cloudflare Pages
+
+### Backend (Server-Side)
+* **API Framework:** FastAPI (Python)
+* **Orchestration:** LangChain
+* **Vector Database:** ChromaDB
+* **Embeddings:** HuggingFace `sentence-transformers/all-MiniLM-L6-v2`
+* **LLM Engine:** Groq API 
+* **Deployment:** Dockerized and hosted on Hugging Face Spaces (16GB RAM)
 
 ---
 
-## 🚀 Local Setup & Installation
+## 📂 Project Structure
 
-### Prerequisites
-* Python 3.11+
-* Node.js & npm
+```text
+documind/
+├── documind-frontend/       # React UI Code
+│   ├── src/                 # React components and pages
+│   ├── package.json         # Node dependencies
+│   └── vite.config.js       # Vite bundler config
+│
+├── documind-backend/        # FastAPI & RAG Engine
+│   ├── data/                # Contains ChromaDB local storage
+│   ├── main.py              # FastAPI application & routes
+│   ├── retriever.py         # Hybrid Retriever (BM25 + RRF + Vector)
+│   ├── rag_chain.py         # LangChain logic for Groq LLM
+│   ├── requirements.txt     # Python dependencies
+│   └── Dockerfile           # Deployment config for Hugging Face
+## 💻 Local Setup Instructions
 
-### Backend Setup
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/pranab170/documind-backend.git](https://github.com/pranab170/documind-backend.git)
-   cd documind-backend
+### 1. Backend Setup
 
-   Install Python dependencies:
+Navigate to the backend directory and install the required Python libraries:
 
-Bash
+```bash
+cd documind-backend
 pip install -r requirements.txt
-Set up Environment Variables:
-Create a .env file in the root directory and add your Groq API key:
+Create a `.env` file in the `documind-backend` folder and add your Groq API key:
 
-Code snippet
-GROQ_API_KEY=gsk_your_api_key_here
-Start the FastAPI Server:
+```env
+GROQ_API_KEY=gsk_your_actual_api_key_here
+GROQ_API_KEY=gsk_your_actual_api_key_here
+Start the local API server:
 
 Bash
 uvicorn main:app --reload --host 0.0.0.0 --port 8000
-The API will be available at http://localhost:8000
-
-Frontend Setup
-Navigate to the frontend directory:
+2. Frontend Setup
+Open a new terminal, navigate to the frontend directory, and install Node modules:
 
 Bash
 cd documind-frontend
-Install dependencies:
-
-Bash
 npm install
-Configure the API endpoint in your config (e.g., src/App.jsx):
+Configure your local API endpoint inside the React app (e.g., in src/App.jsx):
 
 JavaScript
 const API_URL = "http://localhost:8000";
@@ -90,17 +87,14 @@ Start the Vite development server:
 
 Bash
 npm run dev
-🐳 Docker Deployment
-To build and run the backend using Docker (as configured for Hugging Face Spaces):
-
-Bash
-docker build -t documind-api .
-docker run -p 7860:7860 -e GROQ_API_KEY="your_api_key" documind-api
-👨‍💻 Author
+👨‍💻 Developer
 Pranab Paul
-
-GitHub: @pranab170
 
 B.Tech Computer Science and Engineering, CUTM Bhubaneswar
 
-Note: This is an independent project designed for educational purposes and is not officially affiliated with CUTM's administration.
+GitHub: @pranab170
+
+Disclaimer: This is an independent project designed for educational purposes and is not officially affiliated with CUTM's administration.
+
+
+
