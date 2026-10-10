@@ -10,8 +10,8 @@ from typing import List, Tuple
 from dotenv import load_dotenv
 
 from rank_bm25 import BM25Okapi
-from langchain.schema import Document
-from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_core.documents import Document
+from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_chroma import Chroma
 
 load_dotenv()
